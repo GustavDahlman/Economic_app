@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">NewsP3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">1455654131237742</string>
+    <string name="fb_login_protocol_scheme">fb1455654131237742</string>
+    
+    <string-array name="categories">
+        <item>salary</item>
+        <item>welfare</item>
+        <item>loan</item>
+        <item>misc</item>
+    </string-array>
+
+    <string-array name="categoriesO">
+        <item>misc</item>
+        <item>bills</item>
+        <item>technology</item>
+        <item>food</item>
+        <item>activites</item>
+    </string-array>
+
+    <string-array name="income_outcome">
+        <item>Show incomes and outcomes</item>
+        <item>Show incomes</item>
+        <item>Show oucomes</item>
+        <item>misc</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
